@@ -39,4 +39,4 @@ php index.php -b
 * **Gean Emanuel** - *Inclusão de processos* - [geandiasof - Instagram](https://www.instagram.com/geandiasof/).
 
 # Licença
-* Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
+* Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
